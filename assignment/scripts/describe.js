@@ -17,7 +17,7 @@
 // 'yes' is what is logged.
 
 // CODE:
-/*
+/* True is >= 2
 let number = 1;
 
 number++;
@@ -66,7 +66,7 @@ if (name === 'Mary') {
 // if numeric is 123=250 or less than *2 123 it will be set as super
 // if else greater than 250 set console to duper 
 // CODE:
-/* false 246 
+/* false 246 secre = 'duper'
 let secret;
 
 let code = 123;
@@ -88,14 +88,14 @@ console.log(secret)
 
 // 3.
 // DESCRIPTION
-//   
+//  Setting a console command for Prime student set up.
 // 
 // 
 // 
 //
 // OUTCOME:
 // False over the age of 30 age 34 
-// False to far away 8000, needs to live in the west Coast!
+// False lives to far away 8000, needs to live in the west Coast!
 
 // CODE:
 /* true "Welcome to Prime!"
@@ -204,3 +204,4 @@ if(minAge <= age) {
   console.log('enter');
 }
 */
+//FIX - set minAge to >= age greater than or equal to minAge
