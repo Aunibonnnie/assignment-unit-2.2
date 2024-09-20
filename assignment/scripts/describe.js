@@ -33,18 +33,17 @@ if (number >= 2) {
 
 // 1.
 // DESCRIPTION
-// 
-// 
-//
+// Setting the variable for a name 
 //
 //
 //
 //
 // OUTCOME:
-//
+// If the name is Mary the console will log "HI, Mary!"
+// If not the console will log "How do you do"
 
 // CODE:
-/*
+/* True How do you do?
 let name = 'Dane';
 
 if (name === 'Mary') {
@@ -59,15 +58,15 @@ if (name === 'Mary') {
 
 // 2.
 // DESCRIPTION:
-// 
+// Setting a numeric secert variable 
 // 
 // 
 //
 // OUTCOME:
-//
-
+// if numeric is 123=250 or less than *2 123 it will be set as super
+// if else greater than 250 set console to duper 
 // CODE:
-/*
+/* false 246 
 let secret;
 
 let code = 123;
@@ -89,15 +88,17 @@ console.log(secret)
 
 // 3.
 // DESCRIPTION
+//   
 // 
 // 
 // 
 //
 // OUTCOME:
-//
+// False over the age of 30 age 34 
+// False to far away 8000, needs to live in the west Coast!
 
 // CODE:
-/*
+/* true "Welcome to Prime!"
 let isStudent = true;
 let age = 34;
 let zip = 55407;
@@ -163,7 +164,7 @@ if (mix === true) {
   colorOne = 'purple';
 }
 */
-
+//FIX - set colorOne to 'blue' and colorTwo 'red' within the curly brackets also need to set color too ='purple'
 // ------------------------------------------------------------ //
 // ------------------------------------------------------------ //
 
@@ -182,7 +183,7 @@ if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
 */
-
+// FIX - Changed the bracket to {} to seperate the temp and time from eachother
 // ------------------------------------------------------------ //
 // ------------------------------------------------------------ //
 
