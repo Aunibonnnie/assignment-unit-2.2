@@ -66,7 +66,7 @@ if (name === 'Mary') {
 // if numeric is 123=250 or less than *2 123 it will be set as super
 // if else greater than 250 set console to duper 
 // CODE:
-/* false 246 secre = 'duper'
+/* false 246 secret = 'duper'
 let secret;
 
 let code = 123;
@@ -96,6 +96,8 @@ console.log(secret)
 // OUTCOME:
 // False over the age of 30 age 34 
 // False lives to far away 8000, needs to live in the west Coast!
+// true Welcome To Prime!
+// False How about the weather?
 
 // CODE:
 /* true "Welcome to Prime!"
@@ -164,7 +166,7 @@ if (mix === true) {
   colorOne = 'purple';
 }
 */
-//FIX - set colorOne to 'blue' and colorTwo 'red' within the curly brackets also need to set color too ='purple'
+//FIX - set colorOne to 'blue' and colorTwo 'red' also need to console.log ('purple');
 // ------------------------------------------------------------ //
 // ------------------------------------------------------------ //
 
@@ -183,7 +185,7 @@ if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
 */
-// FIX - Changed the bracket to {} to seperate the temp and time from eachother
+// FIX - Change || or to and && if (temp > 39 && time >= 4 )
 // ------------------------------------------------------------ //
 // ------------------------------------------------------------ //
 
